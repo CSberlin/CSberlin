@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <!-- 更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&repo=github-readme-stats)](https://github.com/CSbelrin/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true)](https://github.com/CSbelrin/github-readme-stats)
 
 <!-- 擅长语言 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)](https://github.com/CSberlin/github-readme-stats)
