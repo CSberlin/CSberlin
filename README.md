@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)](https://github.com/CSberlin/github-readme-stats)
 
 <!-- 活动统计图 -->
-![](https://activity-graph.herokuapp.com/graph?username=${CSberlin})
+![](https://activity-graph.herokuapp.com/graph?username=CSberlin)
