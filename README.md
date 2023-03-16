@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 <!-- 擅长语言 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)]
 
-
 <!-- 活动统计图 -->
-![](https://activity-graph.herokuapp.com/graph?username=CSberlin)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CSberlin)]
