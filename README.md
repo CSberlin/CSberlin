@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- 统计卡片 -->
-[![CSberlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSberlin&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![CSberlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSberlin&count_private=true&show_icons=true&theme=dracula)](https://github.com/CSberlin/github-readme-stats)
 
 
 <!-- 更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true&repo=DeFRCN-mindspore)](https://github.com/CSberlin/DeFRCN-mindspore)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true&repo=DeFRCN-mindspore)](https://github.com/CSberlin/DeFRCN-mindspore)
 
 <!-- 擅长语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)
 
-<!-- 活动统计图 -->
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CSberlin)]
