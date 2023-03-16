@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/aFlyBird0?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CSberlin&show_icons=true&hide_border=true&count_private=true&theme=dracula" width="45%" />
+</a>
 
-<!-- 统计卡片 -->
-[![CSberlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSberlin&count_private=true&show_icons=true&theme=dracula)](https://github.com/CSberlin/github-readme-stats)
-
-
-<!-- 更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true&repo=DeFRCN-mindspore)](https://github.com/CSberlin/DeFRCN-mindspore)
+<!-- 更多置顶
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true&repo=DeFRCN-mindspore)](https://github.com/CSberlin/DeFRCN-mindspore)-->
 
 <!-- 擅长语言 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)](https://github.com/CSberlin/github-readme-stats)
