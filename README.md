@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 
 <!-- 更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true&repo=DeFRCN-midnspore)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 擅长语言 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 活动统计图 -->
 ![](https://activity-graph.herokuapp.com/graph?username=CSberlin)
