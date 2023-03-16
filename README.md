@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 <!-- 更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true&repo=DeFRCN-mindspore)](https://github.com/CSberlin/DeFRCN-mindspore)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true&repo=DeFRCN-mindspore)](https://github.com/CSberlin/DeFRCN-mindspore)
 
 <!-- 擅长语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)](https://github.com/CSberlin/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)](https://github.com/CSberlin/github-readme-stats)
 
