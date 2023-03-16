@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![CSberlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSberlin&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- 更多置顶 (暂时没拿得出手的项目还是不要置顶了哈哈哈)-->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- 更多置顶 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSberlin&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 擅长语言 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSberlin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
