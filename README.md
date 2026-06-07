@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on home
-- 🌱 I’m currently learning Go and kubernetes
+- 🔭 I’m currently working on sankuai online
+- 🌱 I’m currently learning python, agent
 - 👯 I’m looking to collaborate on master
 - 💬 Ask me about ...
-- 📫 How to reach me: 21210240417@m.fudan.edu.cn
+- 📫 How to reach me: zx1452@qq.com
 
 
 <!-- 更多置顶
