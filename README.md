@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on sankuai online
+- 🔭 I’m currently working on sankuai online company
 - 🌱 I’m currently learning ai agent
 - 👯 I’m looking to collaborate on master
 - 💬 Ask me about ...
