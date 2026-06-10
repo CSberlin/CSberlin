@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on sankuai online
-- 🌱 I’m currently learning python, agent
+- 🌱 I’m currently learning ai agent
 - 👯 I’m looking to collaborate on master
 - 💬 Ask me about ...
 - 📫 How to reach me: zx1452@qq.com
